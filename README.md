@@ -1,4 +1,3 @@
 - [Dotfiles](https://github.com/jhchabran/dotfiles)
 - [Neovim config](https://github.com/jhchabran/nvim-config)
 - [Keyboard layout](https://configure.zsa.io/moonlander/layouts/eqaam/latest/0)
-- Working at [Sourcegraph](https://sourcegraph.com)
